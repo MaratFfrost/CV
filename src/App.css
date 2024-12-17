@@ -1,0 +1,100 @@
+body{
+  background-color: black;
+  color: aliceblue;
+}
+
+header{
+
+  color: white;
+  padding: 20px;
+
+}
+
+.photo{
+  width: 20vh;
+}
+
+.about{
+  font-size: 130%;
+}
+
+.languages{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.tech{
+  background: #eee;
+  padding: 1% 1%;
+  border-radius: 5px;
+  color: black;
+  font-size: large;
+}
+
+.category{
+  color:aliceblue;
+  font-size: 260%;
+}
+
+.projects{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.project{
+  border: 1px solid #eee;
+  padding: 10px;
+  border-radius: 5px;
+  width: 300px;
+  margin: 2%
+}
+
+.projects .project {
+  transition: transform 0.3s ease; /* Плавный переход */
+}
+
+.projects .project:hover {
+  transform: scale(1.05); /* Увеличение на 5% при наведении */
+}
+
+.info{
+  font-size: 160%;
+  color:aliceblue
+}
+
+.skills{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.work{
+  margin-top: 5%;
+  margin-bottom: 5%;
+
+}
+
+.name{
+  font-size: 160%;
+}
+
+.technics{
+  font-size: 110%;
+}
+
+.links{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+.link{
+  font-size: 150%;
+  text-decoration: none;
+  color:aliceblue
+}
+
+.language{
+  font-size: 150%;
+  color:aliceblue
+}
