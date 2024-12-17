@@ -1,11 +1,12 @@
 import './App.css';
+import image from './images/image copy.png';
 
 
 function App() {
   return (
     <>
       <header>
-      <img className="photo" src="/public/images/image copy.png" alt="Profile" />
+      <img className="photo" src={image} alt="Profile" />
         <h1 style={{ fontSize: '340%' }}>MARAT MOROZOV</h1>
         <h2>Python Developer</h2>
         <p className="about">
