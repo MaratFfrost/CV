@@ -67,7 +67,7 @@ function App() {
             {/* Project 1 */}
             <a href="https://github.com/MaratFfrost/fastapi-booking.git" className="project" style={{ textDecoration: 'none', color: 'inherit' }}>
               <h2>API for Booking</h2>
-              <img src="/images/booking.png" alt="Booking API" style={{ width: '100%', height: 'auto', borderRadius: '5px' }} />
+              <img src="./images/booking.png" alt="Booking API" style={{ width: '100%', height: 'auto', borderRadius: '5px' }} />
               <p className="name">A booking API built with FastAPI and PostgreSQL.</p>
               <p className="technics"><strong>Technologies:</strong> Python, FastAPI, Docker, PostgreSQL, Celery, DynamoDB</p>
             </a>
@@ -75,7 +75,7 @@ function App() {
             {/* Project 2 */}
             <a href="https://github.com/MaratFfrost/fastapi_internet_shop.git" className="project" style={{ textDecoration: 'none', color: 'inherit' }}>
               <h2>API for Shop</h2>
-              <img src="/images/internetshop.png" alt="Shop API" style={{ width: '100%', height: 'auto', borderRadius: '5px' }} />
+              <img src="./images/internetshop.png" alt="Shop API" style={{ width: '100%', height: 'auto', borderRadius: '5px' }} />
               <p className="name">An e-commerce API with advanced features.</p>
               <p className="technics"><strong>Technologies:</strong> Python, FastAPI, Docker, PostgreSQL, RabbitMQ</p>
             </a>
@@ -83,7 +83,7 @@ function App() {
             {/* Project 3 */}
             <a href="https://github.com/MaratFfrost/react-todo-list.git" className="project" style={{ textDecoration: 'none', color: 'inherit' }}>
               <h2>Todo App</h2>
-              <img src="/images/TodoApp.png" alt="Todo App" style={{ width: '100%', height: 'auto', borderRadius: '5px' }} />
+              <img src="./images/TodoApp.png" alt="Todo App" style={{ width: '100%', height: 'auto', borderRadius: '5px' }} />
               <p className="name">A simple todo application with CRUD functionality.</p>
               <p className="technics"><strong>Technologies:</strong> React, HTML, CSS</p>
             </a>
@@ -91,7 +91,7 @@ function App() {
             {/* Project 4 */}
             <a href="https://github.com/MaratFfrost/react-todo-list.git" className="project" style={{ textDecoration: 'none', color: 'inherit' }}>
               <h2>Tic Tac Toe</h2>
-              <img src="/images/image.png" alt="Tic Tac Toe App" style={{ width: '100%', height: 'auto', borderRadius: '5px' }} />
+              <img src="./images/image.png" alt="Tic Tac Toe App" style={{ width: '100%', height: 'auto', borderRadius: '5px' }} />
               <p className="name">A simple tic tac toe game.</p>
               <p className="technics"><strong>Technologies:</strong> Vanilla JavaScript, HTML, CSS</p>
             </a>
