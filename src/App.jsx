@@ -39,7 +39,7 @@ function App() {
         <div className="work">
           <h2 className="category">Work Experience</h2>
           <p style={{ fontSize: '170%' }}>
-            <strong><a style={{ fontSize: '120%', textDecoration: 'none' }} href="https://whitesnake.by/">WhiteSnake</a></strong><br />
+            <strong><a style={{ fontSize: '120%', textDecoration: 'none', color: 'red' }} href="https://whitesnake.by/">WhiteSnake</a></strong><br />
             (November 2024 – Present)
           </p>
         </div>
