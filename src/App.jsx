@@ -89,7 +89,7 @@ function App() {
             </a>
 
             {/* Project 4 */}
-            <a href="https://github.com/MaratFfrost/react-todo-list.git" className="project" style={{ textDecoration: 'none', color: 'inherit' }}>
+            <a href="https://github.com/MaratFfrost/Tic-Tac-Toe.git" className="project" style={{ textDecoration: 'none', color: 'inherit' }}>
               <h2>Tic Tac Toe</h2>
               <img src="./images/image.png" alt="Tic Tac Toe App" style={{ width: '100%', height: 'auto', borderRadius: '5px' }} />
               <p className="name">A simple tic tac toe game.</p>
